@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 
 import java.util.HashSet;
 
-@Component
+//@Component
 public class EurekaStateChangeListener {
 
     private static final Logger logger = LoggerFactory.getLogger(EurekaStateChangeListener.class);
