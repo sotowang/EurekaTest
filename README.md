@@ -73,3 +73,4 @@ public class EurekaStateChangeListener {
 
 ```
 
+> grep  '.*AutoConfiguration' positive  | awk -F '#' '{print $1}' |awk -F '.' '{print $1}'|awk '{print $1}' |awk  '!S[$0]++'

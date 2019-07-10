@@ -56,10 +56,10 @@
                 <configuration>
                     <layout>ZIP</layout>
                     <includes>
-                        <include>
-                            <groupId>org.springframework.boot</groupId>
-                            <artifactId>spring-boot-starter-test</artifactId>
-                        </include>
+                        <!--<include>-->
+                            <!--<groupId>org.springframework.boot</groupId>-->
+                            <!--<artifactId>spring-boot-starter-test</artifactId>-->
+                        <!--</include>-->
                     </includes>
                 </configuration>
             </plugin>

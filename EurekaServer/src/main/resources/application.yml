@@ -14,3 +14,8 @@ eureka:
 
 app-name:
   count: 2
+
+debug: true
+
+
+
