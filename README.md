@@ -74,3 +74,5 @@ public class EurekaStateChangeListener {
 ```
 
 > grep  '.*AutoConfiguration' positive  | awk -F '#' '{print $1}' |awk -F '.' '{print $1}'|awk '{print $1}' |awk  '!S[$0]++'
+# Spring Boot 优化
+https://dev.to/bufferings/lets-make-springboot-app-start-faster-k9m
